@@ -4,6 +4,10 @@
 
 Welcome to the JavaScript Blackjack game! This is a simple implementation of the classic casino card game, where you can try your luck and see if you can beat the dealer.
 
+## Demo
+
+Check out the live demo of the project at [https://mellifluous-dolphin-20ef16.netlify.app/](https://absolutechy.github.io/Blackjack-Game/).
+
 ## Getting Started
 
 To run the game, open the `index.html` file in your web browser. The game interface will be displayed, and you can start playing.
