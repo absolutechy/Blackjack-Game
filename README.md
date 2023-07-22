@@ -1,5 +1,7 @@
 # Blackjack Game
 
+![Project Screenshot](screenshot.png)
+
 Welcome to the JavaScript Blackjack game! This is a simple implementation of the classic casino card game, where you can try your luck and see if you can beat the dealer.
 
 ## Getting Started
